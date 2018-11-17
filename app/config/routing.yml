@@ -1,0 +1,5 @@
+playtime_site:
+    resource: "@PlaytimeSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
+

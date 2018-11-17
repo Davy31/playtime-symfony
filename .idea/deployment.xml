@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="playtime-symfony">
+    <serverData>
+      <paths name="playtime-symfony">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="playtime-symfony" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
